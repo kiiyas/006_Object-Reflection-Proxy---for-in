@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ekkc055a5as48idp?svg=true)](https://ci.appveyor.com/project/kiiyas/005-oop-classes)
+[![Build status](https://ci.appveyor.com/api/projects/status/nej6rq2quq1qmv1g?svg=true)](https://ci.appveyor.com/project/kiiyas/006-object-reflection-proxy-for-in)
 
 # Домашнее задание к лекции «Object, Reflection и Proxy»
 
